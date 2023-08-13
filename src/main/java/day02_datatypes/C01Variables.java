@@ -6,7 +6,6 @@ public class C01Variables {
 
         byte stdAge = 25;
         System.out.println(stdAge);
-        System.out.println(stdAge);
 
 
         short numOfStdInHighSchool = 3245;
